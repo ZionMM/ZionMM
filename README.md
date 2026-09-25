@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi I'm Zion McLeod 👋
 
-<!--
-**ZionMM/ZionMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at [Marcy Lab School](https://www.marcylabschool.org/) based in Brooklyn, NY.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎨 Outside of tech, I enjoy painting, listening to music and going down deep-dive rabbit holes on things that interest me
+* 😄 Pronouns: she/her
+* ⚡ Fun fact: I'm ambidextrous
+
+### Let's connect
+
+* 📫 Email: [zionmmcleod@outlook.com](mailto:zionmmcleod@outlook.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/zionmmcleod/
+* 🤝 Always open to learn, connect, and collaborate
+
+### Tech Stack:
+
+
+## Languages
+
+
+## Frameworks & Libraries
+
+
+## Tools
+Git
+GitHub
