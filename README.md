@@ -14,7 +14,7 @@ I'm a Software Engineering student at [Marcy Lab School](https://www.marcylabsch
 * 💼 LinkedIn: https://www.linkedin.com/in/zionmmcleod/
 * 🤝 Always open to learn, connect, and collaborate
 
-### Tech Stack:
+## Tech Stack:
 
 
 ## Languages
